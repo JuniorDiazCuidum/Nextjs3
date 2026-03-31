@@ -19,11 +19,11 @@
       "type": "string"
     },
     "subHeading": {
-      "type": "string"
+      "type": "text"
     },
     "link": {
       "type": "component",
-      "component": "components.link",
+      "component": "component.link",
       "repeatable": false
     }
   },
